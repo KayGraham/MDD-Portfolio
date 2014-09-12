@@ -1,5 +1,5 @@
 # Deployment Plan
--------
+
 ### Merge Dev Branch into Master
 * $ git checkout master
   * Switches to the local master branch
